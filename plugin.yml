@@ -1,0 +1,9 @@
+name: wPvP
+main: me.wertik.main.Main
+author: Wertik1206
+description: PvP arena handler.
+version: 1.0
+depend: [WorldGuard, WorldEdit]
+commands:
+  pvp:
+    description: The main command for wPVP.

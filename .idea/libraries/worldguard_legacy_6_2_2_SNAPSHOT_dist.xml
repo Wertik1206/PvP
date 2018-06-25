@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="worldguard-legacy-6.2.2-SNAPSHOT-dist">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Plugins - Database/latest/worldguard-legacy-6.2.2-SNAPSHOT-dist.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
